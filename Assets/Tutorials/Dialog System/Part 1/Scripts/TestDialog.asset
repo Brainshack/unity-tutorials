@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1803a112c6764cc7996ac7be7baa1f91, type: 3}
+  m_Name: TestDialog
+  m_EditorClassIdentifier: 
+  segments:
+  - DialogText: Hi, my name is Chris. What can I do you for?
+    Answer1: Can you show me where the saloon is?
+    Answer2: Can you show me where the barbershop is?
+    Answer3: I think I am good, thanks!
+    Answer4: Nothing.
+    SegmentAfterAnswer1: 2
+    SegmentAfterAnswer2: 1
+    SegmentAfterAnswer3: -1
+    SegmentAfterAnswer4: -1
+  - DialogText: The Barber Shop? Sure, it's right over there!
+    Answer1: Well sure it is, obviously!
+    Answer2: Can you show me where the saloon is?
+    Answer3: Oh thats very kind of you!
+    Answer4: Thank you, good by!
+    SegmentAfterAnswer1: -1
+    SegmentAfterAnswer2: 2
+    SegmentAfterAnswer3: -1
+    SegmentAfterAnswer4: -1
+  - DialogText: The saloon? You are standing right in front of it.
+    Answer1: Can you show me where the barbershop is?
+    Answer2: ...
+    Answer3: I knew that
+    Answer4: Oh
+    SegmentAfterAnswer1: 1
+    SegmentAfterAnswer2: -1
+    SegmentAfterAnswer3: -1
+    SegmentAfterAnswer4: -1

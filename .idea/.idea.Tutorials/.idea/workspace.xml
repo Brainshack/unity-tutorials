@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17e5fa01-6ef1-4d5b-b641-d6f9aec89c5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DIalogSegment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogSegment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogSegment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Editor/DialogEditor.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hBp7yxMWBHgDoTyGlPynoUPCPe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="7792">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="7792" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17e5fa01-6ef1-4d5b-b641-d6f9aec89c5b" name="Default Changelist" comment="" />
+      <created>1599494177860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599494177860</updated>
+      <workItem from="1599494181557" duration="3296000" />
+      <workItem from="1599558315105" duration="1056000" />
+      <workItem from="1600615123495" duration="7666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2005" height="403" key="GridCell.Tab.0.bottom" timestamp="1600630533159">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="403" key="GridCell.Tab.0.bottom/0.0.2048.1112/-2560.18.2048.1112/-952.-1080.1920.1040@0.0.2048.1112" timestamp="1600630533159" />
+    <state width="2005" height="403" key="GridCell.Tab.0.center" timestamp="1600630533159">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="403" key="GridCell.Tab.0.center/0.0.2048.1112/-2560.18.2048.1112/-952.-1080.1920.1040@0.0.2048.1112" timestamp="1600630533159" />
+    <state width="2005" height="403" key="GridCell.Tab.0.left" timestamp="1600630533159">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="403" key="GridCell.Tab.0.left/0.0.2048.1112/-2560.18.2048.1112/-952.-1080.1920.1040@0.0.2048.1112" timestamp="1600630533159" />
+    <state width="2005" height="403" key="GridCell.Tab.0.right" timestamp="1600630533159">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="403" key="GridCell.Tab.0.right/0.0.2048.1112/-2560.18.2048.1112/-952.-1080.1920.1040@0.0.2048.1112" timestamp="1600630533159" />
+    <state x="981" y="416" key="RiderGenerateDialog" timestamp="1599558577063">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="981" y="416" key="RiderGenerateDialog/0.0.2560.1400/-2560.18.2048.1112/-952.-1080.1920.1040@0.0.2560.1400" timestamp="1599558577063" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599497075816">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-2560.18.2048.1120/-952.-1080.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1599497075816" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1600629469387">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="350" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode" timestamp="1600629506803">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="350" y="-2" width="1344" height="2556" key="search.everywhere.popup.inPresentationMode/0.0.2048.1112/-2560.18.2048.1112/-952.-1080.1920.1040@0.0.2048.1112" timestamp="1600629506803" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/-2560.18.2048.1112/-952.-1080.1920.1040@0.0.2048.1112" timestamp="1600629469387" />
+  </component>
+</project>
