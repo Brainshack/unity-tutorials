@@ -1,11 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17e5fa01-6ef1-4d5b-b641-d6f9aec89c5b" name="Default Changelist" comment="" />
+    <list default="true" id="17e5fa01-6ef1-4d5b-b641-d6f9aec89c5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/Dialog.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogSegment.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogTest.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tutorials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Part 1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/DialogTest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/DialogTest.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/DialogTest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/Dialog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/Dialog.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/Dialog.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogSegment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogSegment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogSegment.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogWindow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/DialogWindow.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogWindow.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/TestDialog.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/TestDialog.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 1/Scripts/TestDialog.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/TestDialog.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/DialogTest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/DialogTest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Part 2 Dialog.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Part 2 Dialog.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Dialog.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Dialog.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogSegment.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogSegment.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogTest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Editor/DialogEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Editor/DialogEditor.cs.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogSegment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/Dialog.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -21,10 +72,15 @@
         <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/DialogWindow.cs" />
         <option value="$PROJECT_DIR$/Assets/Tutorials/Dialog System/Part 2/Scripts/Editor/DialogEditor.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/Dialog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogSegment.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tutorials/DialogSystem/Scripts/DialogWindow.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1hBp7yxMWBHgDoTyGlPynoUPCPe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,10 +108,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="7792">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="7792" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -81,6 +137,18 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

@@ -1,7 +1,6 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Part2
+namespace Tutorials.DialogSystem.Scripts
 {
     public class DialogTest : MonoBehaviour
     {
