@@ -1,24 +1,22 @@
-﻿﻿using System;
+﻿using System;
+ using System.Collections.Generic;
 
  namespace Tutorials.DialogSystem.Scripts
 {
     [Serializable]
     public class DialogSegment
     {
+        public DialogSegment()
+        {
+            Answers = new List<string>();
+            SegmentAfterAnswer = new List<int>();
+        }
 
         public string DialogText;
 
-        public string Answer1;
-
-        public string Answer2;
-
-        public string Answer3;
-
-        public string Answer4;
-
-        public int SegmentAfterAnswer1 = -1;
-        public int SegmentAfterAnswer2 = -1;
-        public int SegmentAfterAnswer3 = -1;
-        public int SegmentAfterAnswer4 = -1;
+        public List<string> Answers;
+        
+        public List<int> SegmentAfterAnswer;
+        
     }
 }

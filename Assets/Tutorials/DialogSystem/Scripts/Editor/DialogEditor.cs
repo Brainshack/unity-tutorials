@@ -27,25 +27,25 @@ namespace Tutorials.DialogSystem.Scripts.Editor
                 var segment = _dialog.segments[i];
                 var show = _showSegments[i];
                 _showSegments[i] = EditorGUILayout.Foldout(show, segment.DialogText); 
+                
+                
                 if (_showSegments[i])
                 {
                     GUILayout.Label("Dialog Text");
                     segment.DialogText = AnswerText(segment.DialogText);
-                
-                    segment.SegmentAfterAnswer1 = SegmentSelection(segment.SegmentAfterAnswer1, "Answer 1 => ");
- 
-                    segment.Answer1 = AnswerText(segment.Answer1);
-                
-                    segment.SegmentAfterAnswer2 = SegmentSelection(segment.SegmentAfterAnswer2, "Answer 2 => ");
 
-                    segment.Answer2 = AnswerText(segment.Answer2);
-                    segment.SegmentAfterAnswer3 = SegmentSelection(segment.SegmentAfterAnswer3, "Answer 3 => ");
-            
-                    segment.Answer3 = AnswerText(segment.Answer3);
-                    segment.SegmentAfterAnswer4 = SegmentSelection(segment.SegmentAfterAnswer1, "Answer 4 => ");
-            
-                    segment.Answer4 = AnswerText(segment.Answer4);
+                    for (int answerIndex = 0; answerIndex < segment.Answers.Count; answerIndex++)
+                    {
+                        segment.SegmentAfterAnswer[answerIndex] = SegmentSelection(segment.SegmentAfterAnswer[answerIndex], $"Answer {answerIndex} => ");
+                        segment.Answers[answerIndex] = AnswerText(segment.Answers[answerIndex]);
+                    }
 
+                    if (GUILayout.Button("Add Choice"))
+                    {
+                        segment.Answers.Add("New Choice");
+                        segment.SegmentAfterAnswer.Add(-1);
+                    }
+                    
                     if (GUILayout.Button("Remove Segment"))
                     {
                         _dialog.segments.Remove(segment);
@@ -54,6 +54,8 @@ namespace Tutorials.DialogSystem.Scripts.Editor
                 }
                 _dialog.segments[i] = segment;
             }
+            
+            
             if (GUILayout.Button("Add Dialog Segment"))
             {
                 _dialog.segments.Add(new DialogSegment() {DialogText = "New Dialog Segment Text"});
@@ -64,7 +66,7 @@ namespace Tutorials.DialogSystem.Scripts.Editor
         private int SegmentSelection(int selected, string label)
         {
             List<string> options = new List<string>(_dialog.segments.Count);
-
+            
             foreach (var s in _dialog.segments)
             {
                 options.Add(s.DialogText);
