@@ -36,8 +36,14 @@ namespace Tutorials.DialogSystem.Scripts.Editor
 
                     for (int answerIndex = 0; answerIndex < segment.Answers.Count; answerIndex++)
                     {
-                        segment.SegmentAfterAnswer[answerIndex] = SegmentSelection(segment.SegmentAfterAnswer[answerIndex], $"Answer {answerIndex} => ");
+                        
+                        segment.SegmentAfterAnswer[answerIndex] = SegmentSelection(segment.SegmentAfterAnswer[answerIndex], $"Answer {answerIndex+1} => ");
                         segment.Answers[answerIndex] = AnswerText(segment.Answers[answerIndex]);
+                        if (GUILayout.Button("Delete Choice"))
+                        {
+                            segment.Answers.RemoveAt(i);
+                            segment.SegmentAfterAnswer.RemoveAt(i);
+                        }
                     }
 
                     if (GUILayout.Button("Add Choice"))
