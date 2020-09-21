@@ -39,24 +39,14 @@
           </e>
         </e>
         <e p="Tutorials" t="Include">
-          <e p="Dialog System" t="Include">
-            <e p="Part 1" t="Include">
-              <e p="Scripts" t="Include">
-                <e p="Dialog.cs" t="Include" />
-                <e p="DIalogSegment.cs" t="Include" />
-                <e p="DialogTest.cs" t="Include" />
-                <e p="DialogWindow.cs" t="Include" />
-              </e>
-            </e>
-            <e p="Part 2" t="Include">
-              <e p="Scripts" t="Include">
-                <e p="Dialog.cs" t="Include" />
-                <e p="DIalogSegment.cs" t="Include" />
-                <e p="DialogTest.cs" t="Include" />
-                <e p="DialogWindow.cs" t="Include" />
-                <e p="Editor" t="Include">
-                  <e p="DialogEditor.cs" t="Include" />
-                </e>
+          <e p="DialogSystem" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Dialog.cs" t="Include" />
+              <e p="DIalogSegment.cs" t="Include" />
+              <e p="DialogTest.cs" t="Include" />
+              <e p="DialogWindow.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DialogEditor.cs" t="Include" />
               </e>
             </e>
           </e>

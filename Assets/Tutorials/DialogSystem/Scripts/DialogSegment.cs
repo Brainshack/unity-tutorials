@@ -1,6 +1,6 @@
-﻿using System;
+﻿﻿using System;
 
-namespace Tutorials.Dialog_System.Part_1.Scripts
+ namespace Tutorials.DialogSystem.Scripts
 {
     [Serializable]
     public class DialogSegment

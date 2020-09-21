@@ -1,9 +1,8 @@
 ﻿using TMPro;
 using UnityEngine;
-using UnityEngine.Serialization;
 using UnityEngine.UI;
 
-namespace Part2
+namespace Tutorials.DialogSystem.Scripts
 {
     public class DialogWindow : MonoBehaviour
     {
