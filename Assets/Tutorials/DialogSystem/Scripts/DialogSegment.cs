@@ -1,22 +1,25 @@
 ﻿using System;
  using System.Collections.Generic;
+using XNode;
 
- namespace Tutorials.DialogSystem.Scripts
+namespace Tutorials.DialogSystem.Scripts
 {
     [Serializable]
-    public class DialogSegment
+    public struct Connection {}
+    public class DialogSegment: Node
     {
-        public DialogSegment()
-        {
-            Answers = new List<string>();
-            SegmentAfterAnswer = new List<int>();
-        }
-
+        [Input]
+        public Connection input;
+        
         public string DialogText;
 
+        [Output(dynamicPortList = true)]
         public List<string> Answers;
-        
-        public List<int> SegmentAfterAnswer;
-        
+
+
+        public override object GetValue(NodePort port)
+        {
+            return null;
+        }
     }
 }
